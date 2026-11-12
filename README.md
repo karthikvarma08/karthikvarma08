@@ -54,9 +54,13 @@
 
 <a href="https://github.com/karthikvarma08/Skillo">
 
-<img src="https://img.shields.io/badge/⭐%20VIEW%20SKILLO%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⭐%20EXPLORE%20SKILLO-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
+
+<br><br>
+
+**My featured project — Skillo**
 
 </div>
 
@@ -94,7 +98,7 @@
 
 <div align="center">
 
-### Programming
+### 👨‍💻 Programming
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -103,9 +107,9 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<br>
+<br><br>
 
-### Web Technologies
+### 🌐 Web Technologies
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -160,11 +164,21 @@
 
 ---
 
-# 🔝 Top Contributed Repo
+# 🚀 Featured Project
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=karthikvarma08&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+<a href="https://github.com/karthikvarma08/Skillo">
+
+<img src="https://img.shields.io/badge/Skillo-View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/karthikvarma08/Skillo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikvarma08&repo=Skillo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=FFFFFF" width="500"/>
+</a>
 
 </div>
 
